@@ -1,0 +1,63 @@
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: Enter Student ID: Enter Student Name: Student added successfully.
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: Enter Student ID: Enter Student Name: Student added successfully.
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: 
+--- Student List ---
+ID: 101 | Name: Alice
+ID: 102 | Name: Bob
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: Enter Student ID to search: 
+Student Found:
+ID: 102 | Name: Bob
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: Enter Student ID to remove: Student with ID 101 removed successfully.
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: 
+--- Student List ---
+ID: 102 | Name: Bob
+
+--- Student Management System ---
+1. Add students to a list
+2. Display the list of students
+3. Remove a student from the list by ID
+4. Search for a student by ID
+5. Exit
+Enter your choice: Exiting program.

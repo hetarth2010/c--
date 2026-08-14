@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1200">
+  <rect width="100%" height="100%" fill="#1e1e1e"/>
+  <style>
+    .mono { font-family: "Courier New", monospace; font-size:14px; fill:#d4d4d4; }
+  </style>
+  <g transform="translate(12,20)">
+    <text class="mono">
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: Enter Student ID: Enter Student Name: Student added successfully.</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: Enter Student ID: Enter Student Name: Student added successfully.</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: </tspan>
+      <tspan x="0" dy="1.2em">--- Student List ---</tspan>
+      <tspan x="0" dy="1.2em">ID: 101 | Name: Alice</tspan>
+      <tspan x="0" dy="1.2em">ID: 102 | Name: Bob</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: Enter Student ID to search: </tspan>
+      <tspan x="0" dy="1.2em">Student Found:</tspan>
+      <tspan x="0" dy="1.2em">ID: 102 | Name: Bob</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: Enter Student ID to remove: Student with ID 101 removed successfully.</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: </tspan>
+      <tspan x="0" dy="1.2em">--- Student List ---</tspan>
+      <tspan x="0" dy="1.2em">ID: 102 | Name: Bob</tspan>
+      <tspan x="0" dy="1.2em"></tspan>
+      <tspan x="0" dy="1.2em">--- Student Management System ---</tspan>
+      <tspan x="0" dy="1.2em">1. Add students to a list</tspan>
+      <tspan x="0" dy="1.2em">2. Display the list of students</tspan>
+      <tspan x="0" dy="1.2em">3. Remove a student from the list by ID</tspan>
+      <tspan x="0" dy="1.2em">4. Search for a student by ID</tspan>
+      <tspan x="0" dy="1.2em">5. Exit</tspan>
+      <tspan x="0" dy="1.2em">Enter your choice: Exiting program.</tspan>
+    </text>
+  </g>
+</svg>

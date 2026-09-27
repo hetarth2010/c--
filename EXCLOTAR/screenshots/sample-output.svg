@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1400" viewBox="0 0 1080 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Sample output from the interactive stack program</title>
+  <desc id="desc">A terminal-style capture showing stack capacity 3, pushes of 10 and 20, displaying and popping 20, checking the stack state, and exiting.</desc>
+  <rect width="1080" height="1400" rx="14" fill="#0b1020" />
+  <path d="M0 14a14 14 0 0 1 14-14h1052a14 14 0 0 1 14 14v42H0z" fill="#1b2436" />
+  <circle cx="27" cy="28" r="7" fill="#ff5f57" />
+  <circle cx="51" cy="28" r="7" fill="#febc2e" />
+  <circle cx="75" cy="28" r="7" fill="#28c840" />
+  <text x="540" y="34" text-anchor="middle" fill="#b9c4d8" font-family="Segoe UI, sans-serif" font-size="15">Stack program — sample session</text>
+  <g fill="#d9e2f2" font-family="Consolas, 'Courier New', monospace" font-size="16">
+    <text x="28" y="88">Enter the maximum size of the stack: <tspan fill="#8be9fd">3</tspan></text>
+    <text x="28" y="117" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="140">1. Push an element</text>
+    <text x="28" y="163">2. Pop an element</text>
+    <text x="28" y="186">3. Display top element</text>
+    <text x="28" y="209">4. Check if empty</text>
+    <text x="28" y="232">5. Check if full</text>
+    <text x="28" y="255">6. Exit</text>
+    <text x="28" y="278">Enter your choice (1-6): <tspan fill="#8be9fd">1</tspan></text>
+    <text x="28" y="301">Enter an integer value to push: <tspan fill="#8be9fd">10</tspan></text>
+    <text x="28" y="324" fill="#a6e3a1">Successfully pushed 10 onto the stack.</text>
+    <text x="28" y="353" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="376">1. Push an element</text>
+    <text x="28" y="399">2. Pop an element</text>
+    <text x="28" y="422">3. Display top element</text>
+    <text x="28" y="445">4. Check if empty</text>
+    <text x="28" y="468">5. Check if full</text>
+    <text x="28" y="491">6. Exit</text>
+    <text x="28" y="514">Enter your choice (1-6): <tspan fill="#8be9fd">1</tspan></text>
+    <text x="28" y="537">Enter an integer value to push: <tspan fill="#8be9fd">20</tspan></text>
+    <text x="28" y="560" fill="#a6e3a1">Successfully pushed 20 onto the stack.</text>
+    <text x="28" y="589" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="612">1. Push an element</text>
+    <text x="28" y="635">2. Pop an element</text>
+    <text x="28" y="658">3. Display top element</text>
+    <text x="28" y="681">4. Check if empty</text>
+    <text x="28" y="704">5. Check if full</text>
+    <text x="28" y="727">6. Exit</text>
+    <text x="28" y="750">Enter your choice (1-6): <tspan fill="#8be9fd">3</tspan></text>
+    <text x="28" y="773" fill="#f9e2af">The top element is: 20</text>
+    <text x="28" y="802" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="825">1. Push an element</text>
+    <text x="28" y="848">2. Pop an element</text>
+    <text x="28" y="871">3. Display top element</text>
+    <text x="28" y="894">4. Check if empty</text>
+    <text x="28" y="917">5. Check if full</text>
+    <text x="28" y="940">6. Exit</text>
+    <text x="28" y="963">Enter your choice (1-6): <tspan fill="#8be9fd">2</tspan></text>
+    <text x="28" y="986" fill="#a6e3a1">Successfully popped 20 from the stack.</text>
+    <text x="28" y="1015" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="1038">1. Push an element</text>
+    <text x="28" y="1061">2. Pop an element</text>
+    <text x="28" y="1084">3. Display top element</text>
+    <text x="28" y="1107">4. Check if empty</text>
+    <text x="28" y="1130">5. Check if full</text>
+    <text x="28" y="1153">Enter your choice (1-6): <tspan fill="#8be9fd">5</tspan></text>
+    <text x="28" y="1176" fill="#f9e2af">The stack is NOT FULL.</text>
+    <text x="28" y="1205" fill="#89a0bb">--- Stack Operations Menu ---</text>
+    <text x="28" y="1228">1. Push an element</text>
+    <text x="28" y="1251">2. Pop an element</text>
+    <text x="28" y="1274">3. Display top element</text>
+    <text x="28" y="1297">4. Check if empty</text>
+    <text x="28" y="1320">5. Check if full</text>
+    <text x="28" y="1343">6. Exit</text>
+    <text x="28" y="1366">Enter your choice (1-6): <tspan fill="#8be9fd">6</tspan></text>
+    <text x="28" y="1389" fill="#a6e3a1">Exiting program. Good luck with your assignment!</text>
+  </g>
+</svg>

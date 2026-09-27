@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Categorizing output</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin: 0; padding: 36px; background: #10151b; font-family: Consolas, "Courier New", monospace; }
+  pre { margin: 0; padding: 28px 32px; color: #d8e2e8; background: #1b222a; border: 1px solid #3a4652; border-radius: 10px; font-size: 16px; line-height: 1.45; white-space: pre-wrap; }
+  .prompt { color: #7dd3fc; }
+  .success { color: #86efac; }
+  .notice { color: #fde68a; }
+</style>
+</head>
+<body>
+<pre><span class="prompt">$ .\\categorizing.exe</span>
+Enter the number of elements in the array: 6
+Enter 6 integer elements: 42 7 19 3 28 11
+
+===============================
+   ALGORITHM MENU INTERFACE
+===============================
+Current Array: 42 7 19 3 28 11
+-------------------------------
+1. Sort via Selection Sort
+2. Sort via Merge Sort
+3. Search via Linear Search
+4. Search via Binary Search (Auto-sorts if needed)
+5. Reset Array to Original Input
+6. Exit
+Enter your choice (1-6): 4
+Enter search target: 19
+<span class="notice">[Notice] Binary search requires data to be sorted. Applying Merge Sort first...</span>
+Sorted Array: 3 7 11 19 28 42
+<span class="success">Target element 19 found at index 3.</span>
+
+Enter your choice (1-6): 3
+Enter search target: 100
+Target element 100 not found in the array.
+
+Enter your choice (1-6): 2
+<span class="success">Array sorted successfully using Merge Sort!</span>
+
+Enter your choice (1-6): 6
+<span class="success">Exiting program. Good luck with your Project 14 submission!</span></pre>
+</body>
+</html>

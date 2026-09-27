@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<rect width="1100" height="560" rx="12" fill="#101820"/>
+<rect width="1100" height="42" rx="12" fill="#263746"/>
+<circle cx="24" cy="21" r="7" fill="#ff605c"/><circle cx="48" cy="21" r="7" fill="#ffbd44"/><circle cx="72" cy="21" r="7" fill="#00ca4e"/>
+<text x="100" y="27" fill="#d7e1e8" font-family="Consolas,monospace" font-size="16">final-project.exe</text>
+<g fill="#d7e1e8" font-family="Consolas,monospace" font-size="15">
+<text x="28" y="75">=========================================</text><text x="28" y="98">         PR. 20 FINAL PROJECT MENU</text><text x="28" y="121">=========================================</text>
+<text x="28" y="150">1. Linked List Operations (Create/Modify)</text><text x="28" y="173">2. Sort an Array (Merge Sort / Quick Sort)</text><text x="28" y="196">3. Search Array Value (Binary Search)</text><text x="28" y="219">4. Exit</text>
+<text x="28" y="250">Enter your choice (1-4): 1</text><text x="28" y="273">--- Linked List Operations ---</text><text x="28" y="296">1. Insert Value</text><text x="28" y="319">2. Delete Value</text><text x="28" y="342">3. Display List</text>
+<text x="28" y="375">Enter sub-choice: 1</text><text x="28" y="398">Enter integer value to insert: 10</text><text x="28" y="421" fill="#7ee787">Value 10 added as head.</text>
+<text x="28" y="452">Enter integer value to insert: 20</text><text x="28" y="475" fill="#7ee787">Value 20 inserted at the end.</text>
+<text x="28" y="506" fill="#7ee787">Linked List: 10 -&gt; 20 -&gt; NULL</text>
+</g></svg>
